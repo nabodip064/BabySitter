@@ -1,0 +1,12 @@
+E:\176652\17-9-2017\BabySitter\BabySitter\bin\Debug\BabySitter.exe.config
+E:\176652\17-9-2017\BabySitter\BabySitter\bin\Debug\BabySitter.exe
+E:\176652\17-9-2017\BabySitter\BabySitter\bin\Debug\BabySitter.pdb
+E:\176652\17-9-2017\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
+E:\176652\17-9-2017\BabySitter\BabySitter\obj\Debug\BabySitter.exe
+E:\176652\17-9-2017\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+G:\BASIS\17-9-2017\BabySitter\BabySitter\bin\Debug\BabySitter.exe.config
+G:\BASIS\17-9-2017\BabySitter\BabySitter\obj\Debug\BabySitter.exe
+G:\BASIS\17-9-2017\BabySitter\BabySitter\obj\Debug\BabySitter.pdb
+G:\BASIS\17-9-2017\BabySitter\BabySitter\bin\Debug\BabySitter.exe
+G:\BASIS\17-9-2017\BabySitter\BabySitter\bin\Debug\BabySitter.pdb
+G:\BASIS\17-9-2017\BabySitter\BabySitter\obj\Debug\BabySitter.csprojResolveAssemblyReference.cache
